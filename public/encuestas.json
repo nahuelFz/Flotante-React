@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es tu lenguaje de programación favorito?",
+    "opciones": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "Ruby"
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es tu sistema operativo favorito?",
+    "opciones": [
+      "Windows",
+      "MacOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Prefieres trabajar en frontend o backend?",
+    "opciones": [
+      "Frontend",
+      "Backend",
+      "Full Stack",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué framework de JavaScript prefieres?",
+    "opciones": [
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte",
+      "Ninguno"
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Con qué frecuencia programas?",
+    "opciones": [
+      "Diariamente",
+      "Semanalmente",
+      "Mensualmente",
+      "Muy pocas veces"
+    ]
+  }
+]
